@@ -1,5 +1,5 @@
-# Dazzling Delight
- "Dazzling Delight" is the gateway to a world of baking brilliance! This repository houses the codebase for the Dazzling Delight baking website, where passion meets precision in the art of baking. Explore a diverse range of delectable recipes, expert insights, and captivating content in this universe of Dazzling Delight.
+# BakeBot
+BakeBot is your ultimate baking assistant! This repository contains the codebase for the BakeBot website, where baking enthusiasts can explore a variety of delicious recipes, get expert baking tips, and interact with our smart chatbot for guidance. Whether you're a beginner or an experienced baker, BakeBot is here to help you every step of the way!
 
 # Icons
 All icons taken from font-awesome
@@ -41,10 +41,6 @@ pastries
 new arrivals 
 testimonials 
 footer contacts 
-|
-|
-|
-|
 
 # responsivness
 done by using grid template columns, min-max values, flex wrap,flex basis
